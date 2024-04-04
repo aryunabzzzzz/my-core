@@ -1,6 +1,6 @@
 <?php
 
-namespace Core;
+namespace Aryuna\MyCore;
 
 class Autoloader
 {

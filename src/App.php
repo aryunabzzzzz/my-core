@@ -1,6 +1,6 @@
 <?php
 
-namespace Core;
+namespace Aryuna\MyCore;
 
 use Psr\Log\LoggerInterface;
 use Request\Request;
