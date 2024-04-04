@@ -8,9 +8,9 @@ use Request\Request;
 class App
 {
     private array $routes = [];
-    private \Container $container;
+    private Container $container;
 
-    public function __construct(\Container $container)
+    public function __construct(Container $container)
     {
         $this->container = $container;
     }
